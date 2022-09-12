@@ -2,7 +2,7 @@
 
 ## Linear Regression to Predict MPG
 
-![Linear Regression to Predict MPG]()
+![Linear Regression to Predict MPG](https://github.com/xanderbilt23/MechaCar_Statistical_Analysis/blob/main/Resources/Linear%20Regression%20to%20Predict%20MPG.png)
 
 - Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 Vehicle length and ground clearance provided a non-random amount of variance to the mpg values in the dataset. (highlighted in above image)
@@ -13,27 +13,27 @@ The linear model does not predict mpg of MechaCar prototypes effectively because
 
 ## Summary Statistics on Suspension Coils
 
-![total_summary]()
+![total_summary](https://github.com/xanderbilt23/MechaCar_Statistical_Analysis/blob/main/Resources/total_summary.png)
 
-![lot_summary]()
+![lot_summary](https://github.com/xanderbilt23/MechaCar_Statistical_Analysis/blob/main/Resources/lot_summary.png)
 
 - The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 The current manufacturing data meets the design specification for manufacturing lots in total but does not meet the individual standard in Lot3 as the variance is over 100 (170.286). 
 
 ## T-Tests on Suspension Coils
-![sample_test]()
+![sample_test](https://github.com/xanderbilt23/MechaCar_Statistical_Analysis/blob/main/Resources/t-test.png)
 
 All manufacturing lots show that there is not a statical difference from the population mean as the p-value is 0.06028. This hypothesis cannot be rejected. 
 
-![Lot1_test]()
+![Lot1_test](https://github.com/xanderbilt23/MechaCar_Statistical_Analysis/blob/main/Resources/t-test_Lot1.png)
 
 Lot1 shows that there is not a statical difference from the population mean as the p-value is 1. This hypothesis cannot be rejected. 
 
-![Lot2_test]()
+![Lot2_test](https://github.com/xanderbilt23/MechaCar_Statistical_Analysis/blob/main/Resources/t-test_Lot2.png)
 
 Lot2 shows that there is not a statical difference from the population mean as the p-value is 1. This hypothesis cannot be rejected. 
 
-![Lot3_test]()
+![Lot3_test](https://github.com/xanderbilt23/MechaCar_Statistical_Analysis/blob/main/Resources/t-test_Lot3.png)
 
 Lot3 shows that there is  a statical difference from the population mean as the p-value is 0.04168. This hypothesis can be rejected. 
 
